@@ -18,3 +18,5 @@ For this task, I designed a voice-controlled app interface, focusing on **user a
 
 OUTPUT:
 
+![Image](https://github.com/user-attachments/assets/a0db016e-f65d-4603-94bb-7a800d8839d3)
+
